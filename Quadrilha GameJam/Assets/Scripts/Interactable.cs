@@ -17,7 +17,7 @@ public class CollidableObject : MonoBehaviour
 
     void Update()
     {
-        if(isInRange)
+        if(isInRange && !PauseMenu.isPaused && !DialogueManager.isAtDialogue)
         {
             if(Input.GetKeyDown(interactKey))
             {

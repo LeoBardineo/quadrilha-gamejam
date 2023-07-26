@@ -2,13 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Events;
 
 public class DialogueManager : MonoBehaviour
 {
 
     public Text nameText;
     public Text dialogueText;
-
+    public UnityEvent actionAfterDialogueEnd;
+    public GameObject dialogueCanvas;
+    public static bool isAtDialogue;
     private Queue<string> sentences;
 
 
@@ -21,7 +24,8 @@ public class DialogueManager : MonoBehaviour
     
     public void StartDialogue(Dialogue dialogue){
         Debug.Log("Comecando dialogo do " + dialogue.name);
-
+        isAtDialogue = true;
+        dialogueCanvas.SetActive(true);
 
         nameText.text = dialogue.name;
 
@@ -31,7 +35,6 @@ public class DialogueManager : MonoBehaviour
         {
             sentences.Enqueue(sentence);
         }
-
 
         DisplayNextSentence();
     }
@@ -53,5 +56,10 @@ public class DialogueManager : MonoBehaviour
 
     public void EndDialogue(){
         Debug.Log("Fim do Dialogo");
+        isAtDialogue = false;
+        dialogueCanvas.SetActive(false);
+        if(actionAfterDialogueEnd != null){
+            actionAfterDialogueEnd.Invoke();
+        }
     }
 }

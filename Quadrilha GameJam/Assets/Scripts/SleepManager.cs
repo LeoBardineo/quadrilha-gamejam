@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class SleepManager : MonoBehaviour
 {
-    public void Teste()
+    public LevelLoader levelLoader;
+
+    public void PassarDeDia()
     {
         Debug.Log("zzzzz");
+        levelLoader.LoadNextLevel();
     }
 }
