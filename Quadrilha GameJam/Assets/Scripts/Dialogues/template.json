@@ -1,0 +1,9 @@
+{
+    "name": "Dialogo Template",
+    "sentences": [
+        "Frase Inicial", 
+        "Frase 2", 
+        "Frase 3", 
+        "Frase Final"
+    ]
+}
