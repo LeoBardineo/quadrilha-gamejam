@@ -13111,6 +13111,10 @@ PrefabInstance:
       value: Cama
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: isPlayerLivre
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueManager
       value: 
       objectReference: {fileID: 1035450656}

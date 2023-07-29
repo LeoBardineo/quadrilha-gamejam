@@ -28,7 +28,16 @@ public class CollidableObject : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.CompareTag("Player") && !isInRange)
+        if(collision.gameObject.CompareTag("Player"))
+        {
+            isInRange = true;
+            interactBox.SetActive(true);
+        }
+    }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if(collision.gameObject.CompareTag("Player"))
         {
             isInRange = true;
             interactBox.SetActive(true);
@@ -37,7 +46,7 @@ public class CollidableObject : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        if(collision.gameObject.CompareTag("Player") && isInRange)
+        if(collision.gameObject.CompareTag("Player"))
         {
             isInRange = false;
             interactBox.SetActive(false);

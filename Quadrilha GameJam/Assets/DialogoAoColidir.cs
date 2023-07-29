@@ -26,6 +26,7 @@ public class DialogoAoColidir : MonoBehaviour
     void Start()
     {
         tasksDoDia = numTasksPorDia[SceneManager.GetActiveScene().buildIndex - 1];
+        tasksFeitas = 0;
     }
 
     public void comecaDialogo(){
