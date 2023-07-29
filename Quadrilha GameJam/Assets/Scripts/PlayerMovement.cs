@@ -38,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (PauseMenu.isPaused || DialogueManager.isAtDialogue) return;
         playerRB.MovePosition(playerRB.position + movement.normalized * moveSpeed * Time.fixedDeltaTime);
     }
 }

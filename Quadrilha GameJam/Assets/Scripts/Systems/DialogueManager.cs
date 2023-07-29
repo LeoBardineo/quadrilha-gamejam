@@ -48,6 +48,15 @@ public class DialogueManager : MonoBehaviour
 
         string sentence = sentences.Dequeue();
 
+        if(sentence.StartsWith("<b>")){
+            dialogueText.color = Color.blue;
+            sentence = sentence.Replace("<b>", "");
+        } else if(sentence.StartsWith("<r>")){
+            dialogueText.color = Color.red;
+            sentence = sentence.Replace("<r>", "");
+        } else {
+            dialogueText.color = Color.white;
+        }
 
         dialogueText.text = sentence;
 
@@ -61,5 +70,11 @@ public class DialogueManager : MonoBehaviour
         if(actionAfterDialogueEnd != null){
             actionAfterDialogueEnd.Invoke();
         }
+    }
+
+    public void EndDialogueSemAcao(){
+        Debug.Log("Fim do Dialogo");
+        isAtDialogue = false;
+        dialogueCanvas.SetActive(false);
     }
 }
