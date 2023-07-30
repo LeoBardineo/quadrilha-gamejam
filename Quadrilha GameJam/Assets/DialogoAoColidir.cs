@@ -36,6 +36,8 @@ public class DialogoAoColidir : MonoBehaviour
         if(!jaInteragiu && isTask && tasksFeitas != tasksDoDia) {
             tasksFeitas++;
             Debug.Log("task feita");
+            Debug.LogError("tasksFeitas: " + tasksFeitas);
+            Debug.LogError("isPlayerLivre: " + isPlayerLivre);
         }
 
         if(tasksFeitas == tasksDoDia){
