@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: ddd6543bd099a814cb112f0f871641da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_0"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69911f228765ac543b81745f27560a97
+      internalID: 1025592971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_1"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 249
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071211177c571e141bbcf35585516658
+      internalID: -1804927830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_2"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 157
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5452b3f6371e2de41a560d09de6063ef
+      internalID: -1871571198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_3"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 152
+        width: 31
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbbf81226da3764daeac9a0f73424db
+      internalID: -1949243552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_4"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 233
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5fe636496e55458c3473e01a1a447
+      internalID: 1643580023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arte
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 195
+        width: 3
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743c03ec89f881b4e9deb5ebdcbb5203
+      internalID: 1320858920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_6"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92270e333b41a4baf4090fbe06e3a7
+      internalID: -945445594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 165
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd507c916c0d0429db67862ffe6517
+      internalID: 1153734892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_8"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 165
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d678a8261376334eb3321aadb487e59
+      internalID: -1072009080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_9"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 167
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58890252788a7448da1f82b9fdff28
+      internalID: 2060244698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_10"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 97
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94714239ac47ed848a46bd067bc93ca6
+      internalID: 11502120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_11"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 80
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155dfa2b572a93641a029bf7f9f34b37
+      internalID: 49559114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_12"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 29
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5bd6c2874b0d04ebfee46d7ec3d39a
+      internalID: -980215484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_13"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 29
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac630cad3031f4d8964e72f47938fb
+      internalID: -2130286137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_14"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 24
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b10d8f5319884f8698b393ee37578
+      internalID: -790940724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_15"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 105
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cd149437be1984db86f28d9987d8b6
+      internalID: -779227641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_16"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 88
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887db88fd9408e4084c8196056cef6c
+      internalID: 1609757855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_17"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b756f862d02afc42b619ab4f5277c92
+      internalID: 127139639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_18"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 72
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965a9a04474e6b24d8aa74ba6e982288
+      internalID: 1256996422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_19"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 55
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc459da981a1ec4bbb1aab062d737fd
+      internalID: 1137320285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_20"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 40
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0e958c9cbf374ca4880a813d12c11
+      internalID: -1482526079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_21"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 25
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1be431c47467a4782903dd9bf1ef52
+      internalID: -782230061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_0": 1025592971
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_1": -1804927830
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_10": 11502120
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_11": 49559114
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_12": -980215484
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_13": -2130286137
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_14": -790940724
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_15": -779227641
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_16": 1609757855
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_17": 127139639
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_18": 1256996422
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_19": 1137320285
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_2": -1871571198
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_20": -1482526079
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_21": -782230061
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_3": -1949243552
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_4": 1643580023
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_6": -945445594
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_7": 1153734892
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_8": -1072009080
+      "Cena\u0301rio_Pixel_Art_Quadrilha_2 (1)_9": 2060244698
+      arte: 1320858920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

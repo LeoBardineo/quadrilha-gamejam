@@ -47,14 +47,27 @@ MonoBehaviour:
   dialogueTrigger: {fileID: 0}
   dialogueManager: {fileID: 0}
   dialogue:
-    name: 
-    sentences: []
+    name: Geladeira
+    sentences:
+    - "Parece um tanto vazia\u2026"
+    - "<b>Vai ter que diminuir um pouco o quanto est\xE1 comendo para esperar essas
+      plantas crescerem. Racionamento, j\xE1 ouviu falar?"
+    - "<r>Vai ter comida o suficiente l\xE1 fora."
   dialogueJaInteragiu:
-    name: 
-    sentences: []
+    name: Geladeira
+    sentences:
+    - "A comida \xE9 razo\xE1vel. Podia ser pior"
+    - "<r>Poderia ser melhor, tamb\xE9m."
+    - "<r>Voc\xEA precisa sair."
+    - "<b>Voc\xEA deve ter vindo pra c\xE1 por um motivo."
+    - "<r>Ou te arrastaram para c\xE1 a for\xE7a."
+    - "<r>Voc\xEA deveria checar essas portas."
   dialoguePlayerLivre:
-    name: 0
-    sentences: []
+    name: Geladeira
+    sentences:
+    - "Est\xE1 cheia."
+    - "<b>Tem at\xE9 alguns doces!"
+    - <r>Tem pouca carne no congelador...
   actionAfterDialogueEnd:
     m_PersistentCalls:
       m_Calls: []
@@ -65,5 +78,6 @@ MonoBehaviour:
   destruirAoInteragir: 0
   jaInteragiu: 0
   isCama: 0
-  isTask: 0
+  isTask: 1
+  isPlayerLivre: 0
   tasksDoDia: 0
