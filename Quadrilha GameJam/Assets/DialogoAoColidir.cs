@@ -18,15 +18,16 @@ public class DialogoAoColidir : MonoBehaviour
     public bool jaInteragiu = false;
     public bool isCama = false;
     public bool isTask = false;
-    public bool isPlayerLivre = false;
-    public static int[] numTasksPorDia = { 4, 4, 4, 4, 4 };
+    public static bool isPlayerLivre = false;
+    public static int[] numTasksPorDia = { 4, 5, 4, 4, 4 };
     public static int tasksFeitas = 0;
     public int tasksDoDia;
+
+
 
     void Start()
     {
         tasksDoDia = numTasksPorDia[SceneManager.GetActiveScene().buildIndex - 1];
-        tasksFeitas = 0;
     }
 
     public void comecaDialogo(){
@@ -36,9 +37,10 @@ public class DialogoAoColidir : MonoBehaviour
         if(!jaInteragiu && isTask && tasksFeitas != tasksDoDia) {
             tasksFeitas++;
             Debug.Log("task feita");
+            Debug.Log(tasksFeitas);
         }
 
-        if(tasksFeitas == tasksDoDia){
+        if(tasksFeitas >= tasksDoDia){
             isPlayerLivre = true;
         }
 
