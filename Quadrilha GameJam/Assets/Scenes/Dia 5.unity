@@ -758,7 +758,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "N\xE3o"
+  m_text: Sair
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b6393d1b4722b144891cc9de23615240, type: 2}
   m_sharedMaterial: {fileID: -4965588785235241217, guid: b6393d1b4722b144891cc9de23615240, type: 2}
@@ -4916,7 +4916,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sim
+  m_text: Ficar
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b6393d1b4722b144891cc9de23615240, type: 2}
   m_sharedMaterial: {fileID: -4965588785235241217, guid: b6393d1b4722b144891cc9de23615240, type: 2}
@@ -5160,7 +5160,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Deseja dormir agora?
+  m_text: O que deseja fazer?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 213b5bf85986c6a4ea49007dbda9a507, type: 2}
   m_sharedMaterial: {fileID: -4249552929171283977, guid: 213b5bf85986c6a4ea49007dbda9a507, type: 2}
@@ -8120,9 +8120,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 287489543}
-        m_TargetAssemblyTypeName: SleepManager, Assembly-CSharp
-        m_MethodName: PassarDeDia
+      - m_Target: {fileID: 1328267571}
+        m_TargetAssemblyTypeName: EventosDoDia, Assembly-CSharp
+        m_MethodName: cutsceneFinalFicar
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8462,6 +8462,18 @@ MonoBehaviour:
       - m_Target: {fileID: 1035450656}
         m_TargetAssemblyTypeName: DialogueManager, Assembly-CSharp
         m_MethodName: EndDialogueSemAcao
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1328267571}
+        m_TargetAssemblyTypeName: EventosDoDia, Assembly-CSharp
+        m_MethodName: cutsceneFinalSair
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
