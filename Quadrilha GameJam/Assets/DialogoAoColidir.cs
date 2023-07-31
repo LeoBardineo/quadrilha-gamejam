@@ -34,12 +34,11 @@ public class DialogoAoColidir : MonoBehaviour
     public void comecaDialogo(){
         dialogueTrigger.dialogue = dialogue;
         dialogueManager.actionAfterDialogueEnd = actionAfterDialogueEnd;
-        Debug.Log(dialogue.sentences.Length);
 
         if(!jaInteragiu && isTask && tasksFeitas != tasksDoDia) {
             tasksFeitas++;
             Debug.Log("task feita");
-            Debug.Log(tasksFeitas);
+            Debug.LogError(tasksFeitas);
         }
 
         if(tasksFeitas >= tasksDoDia){

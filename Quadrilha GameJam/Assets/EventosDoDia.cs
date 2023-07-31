@@ -26,11 +26,11 @@ public class EventosDoDia : MonoBehaviour
     }
 
     public void cutsceneFinalFicar(){
-        Debug.LogError("ficou.");
+        SceneManager.LoadScene("Cutscene_Ficar");
     }
 
     public void cutsceneFinalSair(){
-        Debug.LogError("saiuuuuuuuuuuu");
+        SceneManager.LoadScene("Cutscene_Sair");
     }
 
     void esperaSegundos(int segundos){

@@ -16,6 +16,8 @@ public class PlayerMovement : MonoBehaviour
         playerRB = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        DialogoAoColidir.tasksFeitas = 0;
+        DialogoAoColidir.isPlayerLivre = false;
     }
 
     // Update is called once per frame

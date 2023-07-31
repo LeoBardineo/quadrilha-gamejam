@@ -205,72 +205,74 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: <r>Se passaram meses. Anos. Quem sabe quanto tempo?
+      value: "Faz muito tempo desde que sa\xED daquele bunker. O mundo estava envolto
+        em caos."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "<b>N\xE3o importa quanto tempo. Voc\xEA sobreviveu. Est\xE1 em perfeita"
+      value: "O come\xE7o foi extremamente dif\xEDcil, eu enfrentei diversos problemas."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "<b>seguran\xE7a."
+      value: Problemas que deixaram marcas que nunca desapareceram.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[3]
-      value: "<r>Voc\xEA n\xE3o consegue nem ao menos falar direito."
+      value: "Marcas que nunca v\xE3o desaparecer\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[4]
-      value: "<b>Falar n\xE3o \xE9 a coisa mais importante. Voc\xEA est\xE1"
+      value: Mas eu sobrevivi.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[5]
-      value: <b>perfeitamente bem.
+      value: Agora, eu sei o que eu preciso fazer.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[6]
-      value: "<r>Emagreceu muito. \xC0s vezes, se encolhe pelos cantos e"
+      value: "N\xE3o estou dizendo que \xE9 f\xE1cil. Nunca vai ser. Novas marcas
+        v\xE3o surgir, com o tempo."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[7]
-      value: "<r>e murmura uma m\xFAsica. O sil\xEAncio n\xE3o te fez bem."
+      value: "Meu corpo j\xE1 n\xE3o \xE9 o mesmo e caminhar pelo mundo \xE9 dif\xEDcil
+        e doloroso\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[8]
-      value: "<b>Nunca houve sil\xEAncio. Eu sempre estive l\xE1!"
+      value: "Mas h\xE1 tanto para ver\u2026 Fico feliz que tenha escolhido a liberdade."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[9]
-      value: <b>Sou seu maior aliado.
+      value: "Embora ainda seja uma jornada solit\xE1ria\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[10]
-      value: "<r>Realmente. Sempre estivemos l\xE1. N\xE3o sei se isso \xE9 bom ou
-        ruim."
+      value: "Mas, quando a vi na dist\xE2ncia\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[11]
-      value: "<b>As plantas cresceram. Voc\xEA podia comer quase todo dia, "
+      value: "Nem sei como descrever esse sentimento\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[12]
-      value: <b>mas o racionamento nunca acabou de verdade.
+      value: "A velha torre de r\xE1dio."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[13]
-      value: "<r>O r\xE1dio nunca mais sintonizou, mas voc\xEA tentava toda manh\xE3."
+      value: "A subida foi uma das jornadas mais dif\xEDceis da minha vida."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[14]
-      value: <b>Na verdade, sua rotina permaneceu a mesma
+      value: Mas valeu cada novo ferimento.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[15]
-      value: <b>durante todo esse tempo.
+      value: "Eu virei o interruptor e segurei o microfone com for\xE7a\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[16]
@@ -278,7 +280,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[17]
-      value: "<r>At\xE9 que um dia\u2026"
+      value: "<roxo>Ol\xE1? Tem algu\xE9m a\xED?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[18]
@@ -286,116 +288,121 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: <r>Se passaram meses. Anos. Quem sabe quanto tempo?
+      value: "Faz muito tempo desde que sa\xED daquele bunker. O mundo estava envolto
+        em caos."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: "<b>N\xE3o importa quanto tempo. Voc\xEA sobreviveu. Est\xE1 em perfeita"
+      value: "O come\xE7o foi extremamente dif\xEDcil, eu enfrentei diversos problemas."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[2]
-      value: "<b>seguran\xE7a."
+      value: Problemas que deixaram marcas que nunca desapareceram.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[3]
-      value: "<r>Voc\xEA n\xE3o consegue nem ao menos falar direito."
+      value: "Marcas que nunca v\xE3o desaparecer\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[4]
-      value: "<b>Falar n\xE3o \xE9 a coisa mais importante. Voc\xEA est\xE1"
+      value: Mas eu sobrevivi.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[5]
-      value: <b>perfeitamente bem.
+      value: Agora, eu sei o que eu preciso fazer.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[6]
-      value: "<r>Emagreceu muito. \xC0s vezes, se encolhe pelos cantos e"
+      value: "N\xE3o estou dizendo que \xE9 f\xE1cil. Nunca vai ser. Novas marcas
+        v\xE3o surgir, com o tempo."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[7]
-      value: "<r>e murmura uma m\xFAsica. O sil\xEAncio n\xE3o te fez bem."
+      value: "Meu corpo j\xE1 n\xE3o \xE9 o mesmo e caminhar pelo mundo \xE9 dif\xEDcil
+        e doloroso\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[8]
-      value: "<b>Nunca houve sil\xEAncio. Eu sempre estive l\xE1!"
+      value: "Mas h\xE1 tanto para ver\u2026 Fico feliz que tenha escolhido a liberdade."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[9]
-      value: <b>Sou seu maior aliado.
+      value: "Embora ainda seja uma jornada solit\xE1ria\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: <r>Se passaram meses. Anos. Quem sabe quanto tempo?
+      value: "Faz muito tempo desde que sa\xED daquele bunker. O mundo estava envolto
+        em caos."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: "<b>N\xE3o importa quanto tempo. Voc\xEA sobreviveu. Est\xE1 em perfeita"
+      value: "O come\xE7o foi extremamente dif\xEDcil, eu enfrentei diversos problemas."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[2]
-      value: "<b>seguran\xE7a."
+      value: Problemas que deixaram marcas que nunca desapareceram.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[3]
-      value: "<r>Voc\xEA n\xE3o consegue nem ao menos falar direito."
+      value: "Marcas que nunca v\xE3o desaparecer\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[4]
-      value: "<b>Falar n\xE3o \xE9 a coisa mais importante. Voc\xEA est\xE1"
+      value: Mas eu sobrevivi.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[5]
-      value: <b>perfeitamente bem.
+      value: Agora, eu sei o que eu preciso fazer.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[6]
-      value: "<r>Emagreceu muito. \xC0s vezes, se encolhe pelos cantos e"
+      value: "N\xE3o estou dizendo que \xE9 f\xE1cil. Nunca vai ser. Novas marcas
+        v\xE3o surgir, com o tempo."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[7]
-      value: "<r>e murmura uma m\xFAsica. O sil\xEAncio n\xE3o te fez bem."
+      value: "Meu corpo j\xE1 n\xE3o \xE9 o mesmo e caminhar pelo mundo \xE9 dif\xEDcil
+        e doloroso\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[8]
-      value: "<b>Nunca houve sil\xEAncio. Eu sempre estive l\xE1!"
+      value: "Mas h\xE1 tanto para ver\u2026 Fico feliz que tenha escolhido a liberdade."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[9]
-      value: <b>Sou seu maior aliado.
+      value: "Embora ainda seja uma jornada solit\xE1ria\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[10]
-      value: "<r>Realmente. Sempre estivemos l\xE1. N\xE3o sei se isso \xE9 bom ou
-        ruim."
+      value: "Mas, quando a vi na dist\xE2ncia\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[11]
-      value: "<b>As plantas cresceram. Voc\xEA podia comer quase todo dia, "
+      value: "Nem sei como descrever esse sentimento\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[12]
-      value: <b>mas o racionamento nunca acabou de verdade.
+      value: "A velha torre de r\xE1dio."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[13]
-      value: "<r>O r\xE1dio nunca mais sintonizou, mas voc\xEA tentava toda manh\xE3."
+      value: "A subida foi uma das jornadas mais dif\xEDceis da minha vida."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[14]
-      value: <b>Na verdade, sua rotina permaneceu a mesma
+      value: Mas valeu cada novo ferimento.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[15]
-      value: <b>durante todo esse tempo.
+      value: "Eu virei o interruptor e segurei o microfone com for\xE7a\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[16]
@@ -403,36 +410,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[17]
-      value: "<r>At\xE9 que um dia\u2026"
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
-      propertyPath: dialogueJaInteragiu.sentences.Array.data[18]
       value: "<roxo>Ol\xE1? Tem algu\xE9m a\xED?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[10]
-      value: "<r>Realmente. Sempre estivemos l\xE1. N\xE3o sei se isso \xE9 bom ou
-        ruim."
+      value: "Mas, quando a vi na dist\xE2ncia\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[11]
-      value: "<b>As plantas cresceram. Voc\xEA podia comer quase todo dia, "
+      value: "Nem sei como descrever esse sentimento\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[12]
-      value: <b>mas o racionamento nunca acabou de verdade.
+      value: "A velha torre de r\xE1dio."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[13]
-      value: "<r>O r\xE1dio nunca mais sintonizou, mas voc\xEA tentava toda manh\xE3."
+      value: "A subida foi uma das jornadas mais dif\xEDceis da minha vida."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[14]
-      value: <b>Na verdade, sua rotina permaneceu a mesma
+      value: Mas valeu cada novo ferimento.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[15]
-      value: <b>durante todo esse tempo.
+      value: "Eu virei o interruptor e segurei o microfone com for\xE7a\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[16]
@@ -440,10 +442,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[17]
-      value: "<r>At\xE9 que um dia\u2026"
-      objectReference: {fileID: 0}
-    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
-      propertyPath: dialoguePlayerLivre.sentences.Array.data[18]
       value: "<roxo>Ol\xE1? Tem algu\xE9m a\xED?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
@@ -644,7 +642,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d31533265de30a547863b41aa085837a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 15454c2649e547d45a58373a9513fe5e, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -957,7 +955,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.003921569, g: 0.027450982, b: 0.18039216, a: 0}
+  m_BackGroundColor: {r: 0.21568629, g: 0.18431373, b: 0.24705884, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -2434,6 +2432,10 @@ PrefabInstance:
       propertyPath: m_Text
       value: ...
       objectReference: {fileID: 0}
+    - target: {fileID: 6508160394575910780, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -79
+      objectReference: {fileID: 0}
     - target: {fileID: 7054032946849952153, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -2442,8 +2444,13 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: DisplayNextSentence
       objectReference: {fileID: 0}
+    - target: {fileID: 7154554180674994335, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -4.799301
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 4133815890004409035, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 4216624513152596226, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
       insertIndex: 0
