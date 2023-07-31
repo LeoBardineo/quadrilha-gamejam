@@ -2562,6 +2562,10 @@ PrefabInstance:
       propertyPath: m_Text
       value: ...
       objectReference: {fileID: 0}
+    - target: {fileID: 5519378578396042391, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7054032946849952153, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

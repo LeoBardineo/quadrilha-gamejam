@@ -2432,6 +2432,10 @@ PrefabInstance:
       propertyPath: m_Text
       value: ...
       objectReference: {fileID: 0}
+    - target: {fileID: 5519378578396042391, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6508160394575910780, guid: f54b64ce2bd5a9344b0de672d27bb673, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -79
