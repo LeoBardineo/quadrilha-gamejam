@@ -5999,7 +5999,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 491578435}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -6011,7 +6011,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1035450656}
         m_TargetAssemblyTypeName: DialogueManager, Assembly-CSharp
         m_MethodName: EndDialogueSemAcao
         m_Mode: 1
@@ -7321,7 +7321,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 491578435}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -7333,7 +7333,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1035450656}
         m_TargetAssemblyTypeName: DialogueManager, Assembly-CSharp
         m_MethodName: EndDialogueSemAcao
         m_Mode: 1
@@ -7345,7 +7345,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 287489543}
         m_TargetAssemblyTypeName: SleepManager, Assembly-CSharp
         m_MethodName: PassarDeDia
         m_Mode: 1
