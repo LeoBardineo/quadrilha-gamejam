@@ -3,14 +3,34 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.SceneManagement;
+using UnityEngine.Events;
 
 public class EventosDoDia : MonoBehaviour
 {
     public PlayableDirector timeline;
     public AudioListener audioListener;
+    public DialogueTrigger dialogueTrigger;
+    public DialogueManager dialogueManager;
+    public UnityEvent actionAfterDialogueEnd = null;
+    public Dialogue dialogoRotinaEnd;
     
     public void terminarDia(){
         esperaSegundos(System.Convert.ToInt32(timeline.duration));
+    }
+
+    public void terminoDeRotinasDia5(bool isPlayerLivre){
+        if(!isPlayerLivre) return;
+        dialogueTrigger.dialogue = dialogoRotinaEnd;
+        dialogueManager.actionAfterDialogueEnd = actionAfterDialogueEnd;
+        dialogueTrigger.TriggerDialogue();
+    }
+
+    public void cutsceneFinalFicar(){
+        Debug.LogError("ficou.");
+    }
+
+    public void cutsceneFinalSair(){
+        Debug.LogError("saiuuuuuuuuuuu");
     }
 
     void esperaSegundos(int segundos){

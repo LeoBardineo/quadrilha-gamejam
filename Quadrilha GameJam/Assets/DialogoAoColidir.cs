@@ -19,7 +19,7 @@ public class DialogoAoColidir : MonoBehaviour
     public bool isCama = false;
     public bool isTask = false;
     public bool isPlayerLivre = false;
-    public static int[] numTasksPorDia = { 4, 4, 4, 4, 4 };
+    public static int[] numTasksPorDia = { 4, 4, 4, 4, 3, 1, 1 };
     public static int tasksFeitas = 0;
     public int tasksDoDia;
 
@@ -32,6 +32,7 @@ public class DialogoAoColidir : MonoBehaviour
     public void comecaDialogo(){
         dialogueTrigger.dialogue = dialogue;
         dialogueManager.actionAfterDialogueEnd = actionAfterDialogueEnd;
+        Debug.Log(dialogue.sentences.Length);
 
         if(!jaInteragiu && isTask && tasksFeitas != tasksDoDia) {
             tasksFeitas++;
@@ -54,8 +55,15 @@ public class DialogoAoColidir : MonoBehaviour
             dialogueManager.actionAfterDialogueEnd = actionAfterDialogueEndJaInteragiu;
         }
 
-        dialogueTrigger.TriggerDialogue();
         
+        if(isPlayerLivre && SceneManager.GetActiveScene().buildIndex == 5){
+            actionAfterDialogueEnd = new UnityEvent();
+            actionAfterDialogueEnd.AddListener(() => FindObjectOfType<EventosDoDia>().terminoDeRotinasDia5(isPlayerLivre));
+            dialogueManager.actionAfterDialogueEnd = actionAfterDialogueEnd;
+        }
+
+        dialogueTrigger.TriggerDialogue();
+
         if(destruirAoInteragir){
             Destroy(gameObject);
         }

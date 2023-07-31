@@ -419,15 +419,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "S\xE3o alguns rabiscos bagun\xE7ados."
+      value: "\xC9 a letra de uma m\xFAsica."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "Tem algo sobre uma m\xFAsica vers\xE3o bossa nova\u2026?\r"
+      value: "Alguma coisa sobre nunca vou desistir de voc\xEA, nunca vou te desapontar\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "Ugh, essa fonte n\xE3o parece nem um pouco s\xE9ria\u2026"
+      value: Ah, droga.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: dialogue.sentences.Array.data[3]
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
@@ -439,27 +443,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "S\xE3o alguns rabiscos bagun\xE7ados."
+      value: "\xC9 a letra de uma m\xFAsica."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: "Tem algo sobre uma m\xFAsica vers\xE3o bossa nova\u2026?\r"
+      value: "Alguma coisa sobre nunca vou desistir de voc\xEA, nunca vou te desapontar\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[2]
-      value: "Ugh, essa fonte n\xE3o parece nem um pouco s\xE9ria\u2026"
+      value: Ah, droga.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "S\xE3o alguns rabiscos bagun\xE7ados."
+      value: "\xC9 a letra de uma m\xFAsica."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: "Tem algo sobre uma m\xFAsica vers\xE3o bossa nova\u2026?\r"
+      value: "Alguma coisa sobre nunca vou desistir de voc\xEA, nunca vou te desapontar\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[2]
-      value: "Ugh, essa fonte n\xE3o parece nem um pouco s\xE9ria\u2026"
+      value: Ah, droga.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -778,12 +782,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "Est\xE1 trancada. Tem luz embaixo da porta, ent\xE3o imagino que leve
-        para fora."
+      value: "Bem, \xE9 agora ou nunca\u2026 O que eu devo fazer\u2026?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
@@ -791,15 +794,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "Trancada\u2026 Tem uma luz embaixo da porta."
+      value: "Bem, \xE9 agora ou nunca\u2026 O que eu devo fazer\u2026?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
@@ -811,7 +814,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "Trancada\u2026 Tem uma luz embaixo da porta."
+      value: "Bem, \xE9 agora ou nunca\u2026 O que eu devo fazer\u2026?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
@@ -1280,15 +1283,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "Eu j\xE1 lavei a lou\xE7a."
+      value: "Sem lou\xE7a para lavar, hoje."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "O arm\xE1rio tem alguns itens de limpeza e algumas comidas enlatadas."
+      value: "Mas posso guardar alguns dos enlatados, se for sair\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
@@ -1296,19 +1299,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "Eu j\xE1 lavei a lou\xE7a."
+      value: "Sem lou\xE7a para lavar, hoje."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: "O arm\xE1rio tem alguns itens de limpeza e algumas comidas enlatadas."
+      value: "Mas posso guardar alguns dos enlatados, se for sair\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[2]
@@ -1316,11 +1319,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "Eu j\xE1 lavei a lou\xE7a."
+      value: "Sem lou\xE7a para lavar, hoje."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: "O arm\xE1rio tem alguns itens de limpeza e algumas comidas enlatadas."
+      value: "Mas posso guardar alguns dos enlatados, se for sair\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[2]
@@ -1780,11 +1783,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: Parece ser novinho em folha
+      value: "Eu j\xE1 comi."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
@@ -1796,15 +1799,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: Parece ser novinho em folha
+      value: "Eu j\xE1 comi."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
@@ -1816,7 +1819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: Parece ser novinho em folha
+      value: "Eu j\xE1 comi."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
@@ -2414,15 +2417,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "Itens de primeiros socorros. Alguns rem\xE9dios simples."
+      value: "Itens m\xE9dicos. Aquilo \xE9 um bisturi?\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "<b>Est\xE1 vendo? Voc\xEA poderia viver aqui!"
+      value: "Bem, podem ser \xFAteis, se eu decidir sair\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
@@ -2440,19 +2443,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "Itens de primeiros socorros. Alguns rem\xE9dios simples."
+      value: "Itens m\xE9dicos. Aquilo \xE9 um bisturi?\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: "<b>Est\xE1 vendo? Voc\xEA poderia viver aqui!"
+      value: "Bem, podem ser \xFAteis, se eu decidir sair\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[2]
@@ -2470,11 +2473,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "Itens de primeiros socorros. Alguns rem\xE9dios simples."
+      value: "Itens m\xE9dicos. Aquilo \xE9 um bisturi?\r"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: "<b>Est\xE1 vendo? Voc\xEA poderia viver aqui!"
+      value: "Bem, podem ser \xFAteis, se eu decidir sair\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[2]
@@ -2812,7 +2815,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "N\xE3o"
+  m_text: Sair
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2963,7 +2966,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 115723771, guid: dc04808a50f80624cba0e340da463010, type: 3}
+  m_Sprite: {fileID: 439011671, guid: dc04808a50f80624cba0e340da463010, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3350,6 +3353,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1215774429}
     - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
+      propertyPath: corAzul.rgba
+      value: 4286135043
+      objectReference: {fileID: 0}
+    - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
+      propertyPath: corRoxa.rgba
+      value: 4284224861
+      objectReference: {fileID: 0}
+    - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
       propertyPath: dialogueText
       value: 
       objectReference: {fileID: 186022736}
@@ -3357,6 +3368,10 @@ PrefabInstance:
       propertyPath: dialogueCanvas
       value: 
       objectReference: {fileID: 1515224666}
+    - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
+      propertyPath: corVermelha.rgba
+      value: 4279506317
+      objectReference: {fileID: 0}
     - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
       propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -3446,6 +3461,7 @@ Transform:
   - {fileID: 841161936}
   - {fileID: 287489546}
   - {fileID: 1375591576}
+  - {fileID: 2145901766}
   - {fileID: 2049074077}
   - {fileID: 962097248}
   - {fileID: 94469226}
@@ -3463,6 +3479,7 @@ Transform:
   - {fileID: 524293038}
   - {fileID: 687391902}
   - {fileID: 576222315}
+  - {fileID: 1078094237}
   - {fileID: 713309428}
   - {fileID: 2078630776}
   - {fileID: 7213015}
@@ -4531,31 +4548,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "Est\xE1 cheia de comida."
+      value: "Eu n\xE3o consigo comer mais nada, agora."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "<b>Tem comida suficiente para voc\xEA. Deve durar..."
+      value: <b>Fique sem comer! Lembre-se, racionamento.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "<r>DIas. Menos de um m\xEAs. N\xE3o \xE9 suficiente."
+      value: "<r>Fa\xE7a uma refei\xE7\xE3o pesada, voc\xEA vai precisar da energia!"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 6
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "A comida \xE9 razo\xE1vel. Podia ser pior"
+      value: "Eu n\xE3o consigo comer mais nada, agora."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
@@ -4579,7 +4596,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "Est\xE1 cheia."
+      value: "Eu n\xE3o consigo comer mais nada, agora."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
@@ -4676,19 +4693,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 6
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "N\xE3o tem nenhum canal de not\xEDcias."
+      value: "Est\xE1 funcionando, mas n\xE3o consegui sintonizar\u2026 Que estranho\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "A maioria das esta\xE7\xF5es passa apenas est\xE1tica."
+      value: "<b>A parte mais simples voc\xEA n\xE3o consegue fazer, hm\u2026?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "Ao menos, encontrei algumas r\xE1dios com m\xFAsica\u2026"
+      value: "<r>Gah, quem se importa com esse r\xE1dio?!"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[3]
@@ -4704,15 +4721,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "Essa m\xFAsica \xE9 agrad\xE1vel."
+      value: "N\xE3o consigo sintonizar..."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
@@ -4720,11 +4737,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "Essa m\xFAsica \xE9 agrad\xE1vel."
+      value: "N\xE3o consigo sintonizar..."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
       value: "N\xE3o vejo motivo para mudar a esta\xE7\xE3o."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1328267571}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: terminarDia
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: EventosDoDia, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4950,9 +4995,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 287489543}
-        m_TargetAssemblyTypeName: SleepManager, Assembly-CSharp
-        m_MethodName: PassarDeDia
+      - m_Target: {fileID: 1328267571}
+        m_TargetAssemblyTypeName: EventosDoDia, Assembly-CSharp
+        m_MethodName: cutsceneFinalFicar
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5206,6 +5251,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1328267571}
+        m_TargetAssemblyTypeName: EventosDoDia, Assembly-CSharp
+        m_MethodName: cutsceneFinalSair
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1069807603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5244,6 +5301,136 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1069807600}
   m_CullTransparentMesh: 1
+--- !u!1 &1078094236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1078094237}
+  - component: {fileID: 1078094239}
+  - component: {fileID: 1078094238}
+  m_Layer: 0
+  m_Name: livros_no_chao
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1078094237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078094236}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.0071335, y: 1.0866952, z: 4.3108644}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 677735487}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1078094238
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078094236}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.71875, y: 0.53125}
+    newSize: {x: 0.71875, y: 0.53125}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.71875, y: 0.53125}
+  m_EdgeRadius: 0
+--- !u!212 &1078094239
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1078094236}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1616613046, guid: ddd6543bd099a814cb112f0f871641da, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.71875, y: 0.53125}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1001 &1112083389
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5326,11 +5513,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "\xC9 uma pequena horta! Talvez eu deva regar as plantas de vez em quando."
+      value: "Parece que est\xE3o um pouco secas."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: <r>Para que se importar?
+      value: "Eu posso regar depois, se decidir ficar\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
@@ -5342,19 +5529,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "\xC9 uma pequena horta! Talvez eu deva regar as plantas de vez em quando."
+      value: "Parece que est\xE3o um pouco secas."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: <r>Para que se importar?
+      value: "Eu posso regar depois, se decidir ficar\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "\xC9 uma pequena horta! Talvez eu deva regar as plantas de vez em quando."
+      value: "Parece que est\xE3o um pouco secas."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: <r>Para que se importar?
+      value: "Eu posso regar depois, se decidir ficar\u2026"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5435,7 +5622,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sim
+  m_text: Ficar
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5570,7 +5757,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Deseja dormir agora?
+  m_text: O que deseja fazer?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5725,15 +5912,16 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 4
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "Ohh, tem v\xE1rios livros com temas diferentes."
+      value: "Acho que eu poderia levar alguns livros, tamb\xE9m\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "<b>Voc\xEA tem bastante entretenimento por um bom tempo."
+      value: "Mas se eu quiser ficar, provavelmente devia l\xEA-los um pouco mais
+        devagar."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
@@ -6125,23 +6313,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "Est\xE1 aberta."
+      value: "\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "<r>\xC9 uma sa\xEDda?"
+      value: <b>Anda logo!
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "\xC9 um banheiro."
+      value: "<r>Ugh, que lerdeza\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[3]
-      value: "<b>Fant\xE1stico. Voc\xEA deveria aproveitar e tomar um banho."
+      value: "E se tiver algu\xE9m l\xE1 dentro\u2026?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[4]
@@ -6149,15 +6337,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 8
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "A \xE1gua estava agrad\xE1vel\u2026"
+      value: Posso usar essas barras de metal e madeira para barricar a porta.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
@@ -6190,7 +6378,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "Eu n\xE3o preciso ir agora\u2026"
+      value: Posso usar essas barras de metal e madeira para barricar a porta.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
@@ -6319,6 +6507,103 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 584013616791582571, guid: daed709eb170aa84684c62e706cca686, type: 3}
   m_PrefabInstance: {fileID: 1320403163}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1328267570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1328267572}
+  - component: {fileID: 1328267571}
+  m_Layer: 0
+  m_Name: EventosDoDia
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1328267571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1328267570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f9c48e0a6b04aa41be24ff041d247ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeline: {fileID: 0}
+  audioListener: {fileID: 0}
+  dialogueTrigger: {fileID: 1437958866}
+  dialogueManager: {fileID: 1035450656}
+  actionAfterDialogueEnd:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 491578435}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+  dialogoRotinaEnd:
+    name: 
+    sentences:
+    - "<r>Voc\xEA precisa sair daqui!"
+    - "<b>N\xE3o, pare com isso, agora!"
+    - "<r>Voc\xEA n\xE3o viu o que aconteceu ontem?!"
+    - "<b>N\xE3o aconteceu NADA ontem!"
+    - <r>Eles poderiam ter entrado!
+    - "<b>E se estivesse l\xE1 fora, voc\xEA poderia ter morrido!"
+    - "<r>N\xE3o, porque n\xE3o estaria AQUI! Voc\xEA poderia estar em qualquer lugar
+      do mundo!"
+    - "<b>Mas, aqui dentro, voc\xEA est\xE1 em completa seguran\xE7a! Para que ir
+      para outro lugar?!"
+    - "<r>Um dia, a comida vai acabar! A \xE1gua vai acabar! A energia vai acabar!
+      E voc\xEA vai\r"
+    - <r>MORRER aqui dentro!
+    - "<b>E l\xE1 fora, voc\xEA j\xE1 teria morrido! N\xE3o tem nada que prove que
+      essas coisas"
+    - "<b>v\xE3o acontecer!"
+    - "<r>Deixe de ser idiota! Voc\xEA precisa sair daqui agora!"
+    - "<b>N\xE3o, isso seria a maior idiotice da sua vida! Independente do que aconte\xE7a,
+      voc\xEA"
+    - "<b>n\xE3o pode sair, NUNCA!"
+    - "J\xC1 CHEGA! Essa decis\xE3o \xE9 minha!"
+    - "\u2026"
+    - "<r>\u2026"
+    - "<b>\u2026"
+    - "Bem\u2026 Se eu quiser sair, preciso quebrar a porta. Bem, eu n\xE3o posso
+      quebrar essa porta"
+    - "de metal apenas com for\xE7a bruta\u2026"
+    - "Mas se quiser ficar, preciso barricar ela de uma vez\u2026 Eu vi materiais
+      de constru\xE7\xE3o em"
+    - "algum lugar, n\xE3o?"
+    - "\xC9 hora de decidir\u2026!"
+--- !u!4 &1328267572
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1328267570}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1375591575
 GameObject:
   m_ObjectHideFlags: 0
@@ -8133,8 +8418,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: "Tem at\xE9 alguns tecidos, se eu soubesse costurar, poderia fazer uma
-        roupa nova."
+      value: Posso usar essa bolsa para guardar os suprimentos, se for sair.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
@@ -8150,8 +8434,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: "Tem at\xE9 alguns tecidos, se eu soubesse costurar, poderia fazer uma
-        roupa nova."
+      value: Posso usar essa bolsa para guardar os suprimentos, se for sair.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
@@ -8159,8 +8442,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: "Tem at\xE9 alguns tecidos, se eu soubesse costurar, poderia fazer uma
-        roupa nova."
+      value: Posso usar essa bolsa para guardar os suprimentos, se for sair.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8655,15 +8937,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "S\xE3o suprimentos de agricultura."
+      value: Sementes e fertilizantes.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: Eu poderia plantar essas sementes.
+      value: "Se eu for ficar, devo plantar mais dessas\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
@@ -8671,19 +8953,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
-      value: "S\xE3o suprimentos de agricultura."
+      value: Sementes e fertilizantes.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[1]
-      value: Eu poderia plantar essas sementes.
+      value: "Se eu for ficar, devo plantar mais dessas\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogueJaInteragiu.sentences.Array.data[2]
@@ -8691,11 +8973,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "S\xE3o suprimentos de agricultura."
+      value: Sementes e fertilizantes.
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[1]
-      value: Eu poderia plantar essas sementes.
+      value: "Se eu for ficar, devo plantar mais dessas\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[2]
@@ -9576,17 +9858,13 @@ MonoBehaviour:
   dialogue:
     name: 
     sentences:
-    - "Que lugar \xE9 esse...?"
-    - Como eu vim parar aqui?
-    - "O que est\xE1 acontecendo?!"
-    - "Eu... n\xE3o me lembro de nada!"
-    - "Ser\xE1 que me sequestraram?"
-    - "Ser\xE1 que est\xE3o me observando?"
-    - Eu preciso fazer alguma coisa.
-    - Eu preciso me levantar dessa cama e...
-    - E...
-    - "<b>E comer. Voc\xEA est\xE1 com fome, n\xE3o est\xE1?"
-    - Eu preciso encontrar comida.
+    - "Acho que eu acabei caindo no sono de novo\u2026"
+    - "<r>Como voc\xEA pode dormir em uma hora dessas?!"
+    - ...
+    - "O que ser\xE1 que aconteceu ontem\u2026?"
+    - "<b>Voc\xEA enlouqueceu?! N\xE3o aconteceu nada!"
+    - ...
+    - "N\xE3o importa\u2026 Ainda preciso fazer as mesmas coisas dos outros dias."
   dialogueJaInteragiu:
     name: 
     sentences: []
@@ -12913,6 +13191,90 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2130065488}
   m_CullTransparentMesh: 1
+--- !u!1 &2145901765
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2145901766}
+  - component: {fileID: 2145901767}
+  m_Layer: 0
+  m_Name: chave_de_fenda
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2145901766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145901765}
+  m_LocalRotation: {x: -0, y: -0, z: 0.23248635, w: 0.9725997}
+  m_LocalPosition: {x: -2.64, y: -3.85, z: 0}
+  m_LocalScale: {x: 1.25, y: 1.25, z: 1.25}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 677735487}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 26.887}
+--- !u!212 &2145901767
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145901765}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 2
+  m_Sprite: {fileID: 1140250094, guid: ddd6543bd099a814cb112f0f871641da, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.09375, y: 0.59375}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1001 &2147425801
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13104,7 +13466,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: isCama
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.name
@@ -13119,44 +13481,56 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1437958866}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: dialogueJaInteragiu.name
+      value: Cama
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.name
       value: Cama
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.size
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[0]
-      value: "A cama \xE9 confort\xE1vel e o travesseiro parece macio\u2026"
+      value: "Agora n\xE3o..."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[1]
-      value: <b>Descanse. Para que a pressa?
+      value: "Preciso tomar um banho, comer e tentar encontrar not\xEDcias no r\xE1dio\u2026"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[2]
-      value: "<r>O que voc\xEA est\xE1 fazendo?"
+      value: "<b>Isso! \xC9 s\xF3 mais um dia como todos os outros."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[3]
-      value: "<r>N\xE3o v\xE1 dormir, voc\xEA precisa fugir!"
+      value: "<r>N\xE3o! Voc\xEA precisa sair daqui! Largue essa pregui\xE7a!"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialogue.sentences.Array.data[4]
       value: "Ser\xE1 que eu deveria dormir?"
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: dialogueJaInteragiu.sentences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.size
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
+      propertyPath: dialogueJaInteragiu.sentences.Array.data[0]
+      value: "Agora n\xE3o..."
+      objectReference: {fileID: 0}
+    - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: dialoguePlayerLivre.sentences.Array.data[0]
-      value: "N\xE3o posso dormir agora, quero explorar esse lugar."
+      value: "Agora n\xE3o..."
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: actionAfterDialogueEndJaInteragiu.m_PersistentCalls.m_Calls.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4318342168795926124, guid: c7cb2ae9859b67742800010eab3505d3, type: 3}
       propertyPath: actionAfterDialogueEndJaInteragiu.m_PersistentCalls.m_Calls.Array.data[0].m_Mode

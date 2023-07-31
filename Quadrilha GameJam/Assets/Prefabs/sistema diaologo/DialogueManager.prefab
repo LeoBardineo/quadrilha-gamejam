@@ -62,3 +62,12 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   dialogueCanvas: {fileID: 0}
+  corAzul:
+    serializedVersion: 2
+    rgba: 4286135043
+  corVermelha:
+    serializedVersion: 2
+    rgba: 4279506317
+  corRoxa:
+    serializedVersion: 2
+    rgba: 4284224861

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -12,13 +13,17 @@ public class DialogueManager : MonoBehaviour
     public UnityEvent actionAfterDialogueEnd;
     public GameObject dialogueCanvas;
     public static bool isAtDialogue;
-    private Queue<string> sentences;
-
+    public Queue<string> sentences;
+    public Color32 corAzul, corVermelha, corRoxa;
+    public DialogoAoColidir dialogoAoColidir;
 
     // Start is called before the first frame update
     void Start()
     {
         sentences = new Queue<string>();
+        if(SceneManager.GetActiveScene().buildIndex == 6 || SceneManager.GetActiveScene().buildIndex == 7){
+            dialogoAoColidir.comecaDialogo();
+        }
     }
 
     
@@ -49,11 +54,14 @@ public class DialogueManager : MonoBehaviour
         string sentence = sentences.Dequeue();
 
         if(sentence.StartsWith("<b>")){
-            dialogueText.color = Color.blue;
+            dialogueText.color = corAzul;
             sentence = sentence.Replace("<b>", "");
         } else if(sentence.StartsWith("<r>")){
-            dialogueText.color = Color.red;
+            dialogueText.color = corVermelha;
             sentence = sentence.Replace("<r>", "");
+        } else if(sentence.StartsWith("<roxo>")){
+            dialogueText.color = corRoxa;
+            sentence = sentence.Replace("<roxo>", "");
         } else {
             dialogueText.color = Color.white;
         }

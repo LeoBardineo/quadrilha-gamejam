@@ -3561,6 +3561,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1215774429}
     - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
+      propertyPath: corAzul.rgba
+      value: 4286135043
+      objectReference: {fileID: 0}
+    - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
+      propertyPath: corRoxa.rgba
+      value: 4284224861
+      objectReference: {fileID: 0}
+    - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
       propertyPath: dialogueText
       value: 
       objectReference: {fileID: 186022736}
@@ -3568,6 +3576,10 @@ PrefabInstance:
       propertyPath: dialogueCanvas
       value: 
       objectReference: {fileID: 1515224666}
+    - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
+      propertyPath: corVermelha.rgba
+      value: 4279506317
+      objectReference: {fileID: 0}
     - target: {fileID: 5578093498314674152, guid: f9d5203d0823f7e48962b38db3666563, type: 3}
       propertyPath: actionAfterDialogueEnd.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
